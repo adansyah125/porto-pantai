@@ -338,10 +338,10 @@ export const projectsData: Project[] = [
 
 export const experienceData: ExperienceItem[] = [
   {
-    id: 'edu-widyatama',
+    id: 'edu-Mardira',
     period: '2023 - Sekarang',
     role: 'S1 Teknik Informatika',
-    organization: 'Universitas Widyatama (Angkatan 2023)',
+    organization: 'STMIK Mardira Indonesia (Angkatan 2023)',
     badge: 'Pendidikan Formal',
     category: 'education',
     description:
